@@ -106,5 +106,40 @@
     "answer_4": "To Create Horizontal Line",
     "right_answer": "To Add Breakline"
     }
-    
+     {
+        "img":"images/R (3).png",
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+    },
+     {
+        "img":"images/R (3).png",
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+    },
+     {
+        "img":"images/R (3).png",
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+    },
+     {
+        "img":"images/R (3).png",
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+    }
 ]
